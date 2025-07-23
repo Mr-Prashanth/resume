@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(221, 220, 220);
+}
+
+.continer{
+    background-color: white;
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0 0 50px rgb(0, 0, 0, 0.5);
+    font-family:  Arial;
+    color: #444;
+
+
+}
+
+.header{
+    text-align: center;
+    line-height: 10px;
+    white-space: nowrap;
+}
+
+.section{
+    padding-left: 10px;
+    line-height: 5px;
+}
+
+#right{
+    float: right;
+}
+
+#p2{
+    font-size: 14px;
+    
+}
+
+ul{
+    line-height: 25px;
+    word-spacing: 3px;
+}
+
+a{
+    color: rgb(0, 119, 255);
+}
