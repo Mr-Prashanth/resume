@@ -31,6 +31,7 @@ body{
 
 #p2{
     font-size: 14px;
+    padding-left: 13px;
     
 }
 
@@ -41,4 +42,10 @@ ul{
 
 a{
     color: rgb(0, 119, 255);
+}
+
+
+.section2{
+    padding-left: 10px;
+    line-height: 20px;
 }
